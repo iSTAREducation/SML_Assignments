@@ -1,4 +1,4 @@
-# SML_Lab_Classifier
+# SML_Assignments_Template
 
 ## File Structure:
 + All data files should be placed in the data folder.
